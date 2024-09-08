@@ -23,6 +23,7 @@ sudo dd if=boot.img of=/dev/sdb
 ```
 
 Full blog: [link](https://embeddedos.github.io/posts/Build-A-x86-Bootloader-BIOS/)
+
 Youtube:
 
 - [video 1](https://youtu.be/1sme52DW9WU?si=tJ5ERuBouEvU4jiu)
